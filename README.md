@@ -1,4 +1,3 @@
-[![StandWithUkraineBanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
 <h1 align="center">Telegram File Stream Bot</h1>
 <p align="center">
   <a href="https://github.com/EverythingSuckz/TG-FileStreamBot">
@@ -69,7 +68,7 @@ Either you could locally host or deploy on ~~[Heroku](https://heroku.com)~~ Free
 
 Press the below button to fast deploy to Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fzxlp%2Ftgfs)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/josephpristaly/TG-file-Bot)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
